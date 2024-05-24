@@ -8,20 +8,21 @@ h2 {
 }
 
 ul {
+  display: inline-block;
   text-align: right;
   color: #ffffff;
 }
 
 /* List items in navigation bar */
 li {
-  /* TODO: Add your code here */
+  margin: 0 auto;
   list-style-type: none;
   font-size: 40px;
+  background-color: red;
 }
 
 /* Boxes */
 img {
-  /* TODO: Add your code here */
   margin: 0 auto;
 }
 
@@ -37,8 +38,11 @@ img {
   background-color: #999900;
 }
 
-/* Box 3 */
-#image-3 {
-  /* TODO: Add your code here */
-  display: none;
+#centered-list {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#navbar {
+  text-align: center;
 }
