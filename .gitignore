@@ -2,7 +2,8 @@
 .idea
 
 # UPCOMING CLASS MATERIALS
-/01-Class-Content/02-Advanced-CSS
+#/01-Class-Content/01-HTML-Git-CSS
+#/01-Class-Content/02-Advanced-CSS
 /01-Class-Content/03-JavaScript
 /01-Class-Content/04-Web-APIs
 /01-Class-Content/05-Third-Party-APIs
@@ -30,4 +31,4 @@
 /README.md
 
 # DISABLE TO PUSH INSTRUCTOR MATERIALS
-#*Ins_*
+*Ins_*
