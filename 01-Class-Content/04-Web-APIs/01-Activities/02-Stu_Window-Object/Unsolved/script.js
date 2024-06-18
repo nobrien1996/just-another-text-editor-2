@@ -1,4 +1,4 @@
-// LOGS THE .....
+// TODO: What will the following line of code log?
 console.log(window);
 
 // TODO: What will the following line of code log?
