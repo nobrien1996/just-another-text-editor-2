@@ -11,7 +11,7 @@
 #/01-Class-Content/07-Project-1
 #/01-Class-Content/08-Project-1-Contd
 #/01-Class-Content/09-NodeJS
-/01-Class-Content/10-OOP
+#/01-Class-Content/10-OOP
 /01-Class-Content/11-Express
 /01-Class-Content/12-SQL
 /01-Class-Content/13-ORM
@@ -41,3 +41,6 @@
 
 # CLASS DEMONSTRATION FILE
 /demo.js
+
+# NPM PACKAGE INSTALLATION DIRS
+node_modules/
